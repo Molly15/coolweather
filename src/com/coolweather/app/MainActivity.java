@@ -11,6 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.os.Build;
 
+//一个Activity对应一个界面
 public class MainActivity extends Activity {
 
 	@Override
